@@ -2,7 +2,7 @@
 
 ## Medium Post
 
-https://medium.com/p/1d210f56c05f/edit
+hhttps://medium.com/@preeti.amin/analysis-of-standardized-student-test-scores-using-pre-processing-for-bias-removal-1d210f56c05f
 
 ## Dependencies
 
