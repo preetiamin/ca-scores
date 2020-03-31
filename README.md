@@ -6,7 +6,7 @@ https://medium.com/@preeti.amin/analysis-of-standardized-student-test-scores-usi
 
 ## Dependencies
 
-The notebook uses numpy, pandas, matplotlib, seaborn and sklearn libraries
+The notebook uses numpy, pandas, matplotlib, seaborn, scipy and sklearn libraries
 
 ## Project Motivation
 
